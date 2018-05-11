@@ -1,0 +1,24 @@
+{
+  "name": "angular-codeurx-multi-select",
+  "authors": [
+    "Amir Ali Salah <codeurx@gmail.com>"
+  ],
+  "homepage": "https://github.com/codeurx/ngCodeurxMultiSelect",
+  "location": "https://github.com/codeurx/ngCodeurxMultiSelect",
+  "description": "Searchable Multiple select for angularjs",
+  "main": [
+    "angular-codeurx-multi-select.js",
+    "angular-codeurx-multi-select.css"
+  ],
+  "ignore": [],
+  "keywords": [
+    "angular",
+    "angular select",
+    "angular multiple select",
+    "searchable multiple select",
+    "searchable select",
+    "angular searchable multiple select",
+    "angular searchable select"
+  ],
+  "license": "MIT"
+}

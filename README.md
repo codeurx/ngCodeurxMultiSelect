@@ -1,2 +1,2 @@
 # ngCodeurxMultiSelect
-Multiple select for angularjs
+Searchable Multiple select for angularjs
